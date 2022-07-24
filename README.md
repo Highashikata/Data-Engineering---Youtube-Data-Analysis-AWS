@@ -31,3 +31,10 @@ We will collect the Data using the YouTube API.
 
 Region: Physical locations where AWS has Data Centers.
 AZ : One or more discrete Data Centers with redundant power, networking and connectivity in AWS region.
+
+##### How to get our Data
+
+- first we will download the data needed from kaggle, and here is the link: https://www.kaggle.com/datasnaek/youtube-new
+- Then we will create a AWS S3 Bucket.
+- Finally, we will copy the Data to S3, using aws cli.
+
