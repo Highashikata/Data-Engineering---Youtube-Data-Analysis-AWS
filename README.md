@@ -25,3 +25,9 @@ How will I measure the success of my project.
 ##### The Data we will be using
 In this project we'll use the YouTube trending videos Dataset from Kaggle.
 We will collect the Data using the YouTube API.
+
+
+##### Vocabulary Along the Project
+
+Region: Physical locations where AWS has Data Centers.
+AZ : One or more discrete Data Centers with redundant power, networking and connectivity in AWS region.
